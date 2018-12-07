@@ -1,0 +1,5 @@
+tensorflow
+paho-mqtt
+pymongo
+influxdb
+tqdm
